@@ -28,5 +28,11 @@
     "url": "https://174.ip.nowgg.fun/apps/aptoide/5874/aptoide.html",
     "icon": "icons/android.svg",
     "tag": "Cloud"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://174.ip.nowgg.fun/apps/tiktok/4478/tiktok.html",
+    "icon": "icons/tiktok.svg",
+    "tag": "Cloud"
   }
 ]
