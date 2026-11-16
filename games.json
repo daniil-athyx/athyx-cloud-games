@@ -1,8 +1,14 @@
-﻿[
+[
   {
     "name": "Roblox",
     "url": "https://174.ip.nowgg.fun/apps/a/19900/b.html",
     "icon": "icons/roblox.svg",
+    "tag": "Cloud"
+  },
+  {
+    "name": "Stumble Guys",
+    "url": "https://174.ip.nowgg.fun/apps/a/10011/b.html",
+    "icon": "icons/stumble-guys.png",
     "tag": "Cloud"
   }
 ]
