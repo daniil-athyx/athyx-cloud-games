@@ -34,5 +34,11 @@
     "url": "https://174.ip.nowgg.fun/apps/tiktok/4478/tiktok.html",
     "icon": "icons/tiktok.svg",
     "tag": "Cloud"
+  },
+  {
+    "name": "YouTube",
+    "url": "https://174.ip.nowgg.fun/apps/google-llc/1395/youtube.html",
+    "icon": "icons/youtube.svg",
+    "tag": "Cloud"
   }
 ]
