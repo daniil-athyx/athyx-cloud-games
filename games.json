@@ -40,5 +40,11 @@
     "url": "https://174.ip.nowgg.fun/apps/google-llc/1395/youtube.html",
     "icon": "icons/youtube.svg",
     "tag": "Cloud"
+  },
+  {
+    "name": "Among Us",
+    "url": "https://174.ip.nowgg.fun/apps/innersloth-llc/4047/among-us.html",
+    "icon": "icons/among-us.svg",
+    "tag": "Cloud"
   }
 ]
