@@ -10,5 +10,11 @@
     "url": "https://174.ip.nowgg.fun/apps/a/10011/b.html",
     "icon": "icons/stumble-guys.png",
     "tag": "Cloud"
+  },
+  {
+    "name": "Fortnite",
+    "url": "https://174.ip.nowgg.fun/apps/aptoide/5874/aptoide.html",
+    "icon": "icons/fortnite.svg",
+    "tag": "Cloud"
   }
 ]
