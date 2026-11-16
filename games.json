@@ -22,5 +22,11 @@
     "url": "https://174.ip.nowgg.fun/apps/aptoide/5874/aptoide.html",
     "icon": "icons/app-store.svg",
     "tag": "Cloud"
+  },
+  {
+    "name": "Android",
+    "url": "https://174.ip.nowgg.fun/apps/aptoide/5874/aptoide.html",
+    "icon": "icons/android.svg",
+    "tag": "Cloud"
   }
 ]
